@@ -1,0 +1,87 @@
+Technical Round 1 – Analytics Proposal
+1. Daily Messages Sent
+Description: Tracks the number of messages sent daily in each group. Helps identify engagement patterns and periods of high or low activity.
+2. Active Members Per Day
+Description: Counts the number of unique members sending messages daily. Useful for understanding group participation.
+3. Most Active Members
+Description: Identifies members who send the most messages within a given timeframe. Helps in recognizing engaged members.
+4. Top Message Types
+Description: Analyzes the distribution of message types (text, media, links, etc.). Helps in understanding content preferences.
+5. Messages With Most Replies
+Description: Identifies messages that generate the most discussions. Useful for understanding popular topics.
+6. Message Forwarding Trends
+Description: Tracks the number of times messages are forwarded. Helps in measuring content virality.
+7. Peak Activity Hours
+Description: Analyzes when the group is most active by tracking messages per hour. Helps in scheduling announcements.
+8. Group Growth Rate
+Description: Monitors the rate at which new members join the group. Useful for measuring engagement and reach.
+9. Bot-to-Member Ratio
+Description: Calculates the percentage of bots in a group. Helps in maintaining a balanced community.
+10. Admin-to-Member Ratio
+Description: Evaluates the ratio of administrators to members. Ensures sufficient moderation.
+11. Most Used Hashtags
+Description: Identifies the most common hashtags used in messages. Helps in trend analysis.
+12. Most Shared URLs
+Description: Tracks frequently shared links. Useful for monitoring external content engagement.
+13. Member Retention Rate
+Description: Measures how many members stay in the group over time. Helps in assessing group loyalty.
+14. Message Visibility Trends
+Description: Analyzes message views over time. Useful for optimizing content reach.
+15. Top Pinned Messages
+Description: Identifies pinned messages with the highest engagement. Helps in curating important information.
+16. Inactive Members List
+Description: Identifies members who haven't sent messages within a certain period. Useful for engagement campaigns.
+17. Group Type Analysis
+Description: Compares engagement between different group types (public vs. private). Helps in deciding group settings.
+18. New Member Contribution
+Description: Tracks messages sent by new members. Helps in understanding their initial engagement.
+19. Most Popular Senders
+Description: Identifies users whose messages receive the most replies and forwards. Useful for influencer identification.
+20. Content Virality Score
+Description: Measures the impact of a message based on views, forwards, and replies. Helps in content optimization.
+
+
+
+
+
+
+
+
+
+
+Technical Round 2 – Admin Dashboard Design
+Group-Level Dashboard Metrics:
+1.	Total Number of Groups Managed – Displays the total count of groups.
+2.	Top 5 Largest Groups – Shows the groups with the most members.
+3.	Inactive Groups – Identifies groups with little to no activity.
+4.	Public vs. Private Groups Pie Chart – Visualizes the distribution of group types.
+5.	Growth Rate of Groups – Monitors how fast new groups are being created.
+6.	Total Bots in Groups – Measures bot presence.
+7.	Top 5 Groups by Admin Count – Identifies highly moderated groups.
+8.	Average Number of Members per Group – Provides an overall community size metric.
+9.	Most Active Groups (Based on Message Count) – Highlights highly engaged groups.
+10.	Group Join & Leave Trends – Tracks membership changes.
+Member-Level Dashboard Metrics:
+11.	Top Contributors (Based on Messages Sent) – Identifies the most active users.
+12.	Average Time Spent in a Group – Measures retention.
+13.	Bots vs. Human Members Chart – Displays the ratio of bots to humans.
+14.	Daily New Members – Tracks the number of new joiners per day.
+15.	Churn Rate – Identifies how many users leave groups over time.
+Message-Level Dashboard Metrics:
+16.	Daily Message Volume – Displays a time-series chart of message activity.
+17.	Most Engaging Messages (Based on Replies & Forwards) – Highlights highly interacted messages.
+18.	Most Used Hashtags – Shows trending hashtags.
+19.	Most Shared Media Types – Analyzes media preferences.
+20.	Top Shared URLs – Identifies the most popular links.
+21.	Message Type Distribution – Pie chart of text vs. media messages.
+22.	Reply Trends – Tracks the number of replies over time.
+23.	Average Messages per User – Shows user engagement.
+24.	Time of Day with Peak Message Activity – Identifies when users are most active.
+25.	Number of Deleted Messages – Monitors moderation activity.
+26.	Forwarded Messages Count – Tracks message virality.
+27.	Most Active Message Senders – Lists the top messaging users.
+28.	Pinned Messages Frequency – Tracks how often messages are pinned.
+29.	Total Number of Views per Message Type – Measures visibility.
+30.	Most Popular Hashtags Over Time – Trends hashtag usage dynamically.
+
+
